@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#0B1F3A" />
+  <rect y="58" width="64" height="6" fill="#B48A3E" />
+  <text x="32" y="40" font-family="Georgia, serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">UK</text>
+</svg>
